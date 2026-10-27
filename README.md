@@ -4,10 +4,10 @@
 
 <br>
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-ffffff?style=for-the-badge&logo=windows&logoColor=111111)](https://github.com/ImDaimo/CarryLens-Prod/releases/latest)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-ffffff?style=for-the-badge&logo=windows&logoColor=111111)](https://github.com/ImDaimo/CarryLens/releases/latest)
 
-[![Latest release](https://img.shields.io/github/v/release/ImDaimo/CarryLens-Prod?style=flat-square&label=version&color=ededed&labelColor=101111)](https://github.com/ImDaimo/CarryLens-Prod/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/ImDaimo/CarryLens-Prod/total?style=flat-square&color=5fc992&labelColor=101111)](https://github.com/ImDaimo/CarryLens-Prod/releases)
+[![Latest release](https://img.shields.io/github/v/release/ImDaimo/CarryLens?style=flat-square&label=version&color=ededed&labelColor=101111)](https://github.com/ImDaimo/CarryLens/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/ImDaimo/CarryLens/total?style=flat-square&color=5fc992&labelColor=101111)](https://github.com/ImDaimo/CarryLens/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-55b3ff?style=flat-square&labelColor=101111)](#install)
 [![Patch](https://img.shields.io/badge/patch-26.21-e5b454?style=flat-square&labelColor=101111)](#where-the-data-comes-from)
 [![Price](https://img.shields.io/badge/price-free-ededed?style=flat-square&labelColor=101111)](#faq)
@@ -83,7 +83,7 @@
 
 ## Install
 
-1. Download **CarryLens-Setup-x.y.z.exe** from the [latest release](https://github.com/ImDaimo/CarryLens-Prod/releases/latest).
+1. Download **CarryLens-Setup-x.y.z.exe** from the [latest release](https://github.com/ImDaimo/CarryLens/releases/latest).
 2. Run it. Windows may say *"Windows protected your PC"* because the installer isn't code-signed: click **More info**, then **Run anyway**.
 3. Carry Lens opens and waits for the League client. Start League, and it connects by itself.
 
@@ -175,7 +175,7 @@ Every server for scouting (set automatically from your client, or pick one in Se
 
 ## Releases
 
-Every version is listed on the [releases page](https://github.com/ImDaimo/CarryLens-Prod/releases). This repository holds installers and this page only.
+Every version is listed on the [releases page](https://github.com/ImDaimo/CarryLens/releases). This repository holds installers and this page only.
 
 ---
 
