@@ -24,7 +24,7 @@
 
 ## Features
 
-| | |
+| Feature | What it does |
 |---|---|
 | 🧭 **The Build: items and runes together** | Several complete builds for your champion, role and matchup, each with the rune page its players actually use. The recommended one is the best win rate into your lane opponent, adjusted for sample size. Follow a build and its runes come with it. |
 | ⚡ **Send to League** | One click puts the rune page and your summoner spells into the client (Flash on D or F, your choice). Nothing changes unless you press it. |
@@ -116,7 +116,7 @@ Carry Lens follows Riot's third-party app rules:
 - ❌ No enemy jungle tracking. Objective timers come only from the public kill feed.
 - ❌ No in-game prompts telling you what to do ("go gank top"). The game plan is a pre-game summary, and the overlay sticks to items and public timers.
 - ❌ No input automation and no chat.
-- ❌ No other players' names during champ select. Enemy players are looked up from the loading screen on, when the game shows their names.
+- ❌ No other players' names during champ select. Enemy players are only looked up once the loading screen shows their names.
 
 ## Privacy
 
